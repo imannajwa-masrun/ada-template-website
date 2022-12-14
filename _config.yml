@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: benbalter/retlab
 title: StuckOverflow's Website
 description: A website for "Trends on Tags"'s data story
 show_downloads: True
